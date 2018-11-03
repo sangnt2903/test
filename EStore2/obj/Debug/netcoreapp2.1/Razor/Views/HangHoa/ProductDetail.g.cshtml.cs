@@ -76,7 +76,7 @@ using EStore2.Models;
             WriteLiteral("    <div class=\"col-md-4 agileinfo_single_left\">\r\n        ");
             EndContext();
             BeginContext(239, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1dcca04a99bc440080bf2411f658c1a1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "dae5f0f55c0f4da7b6aadd4f9120d43f", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -168,7 +168,7 @@ AddHtmlAttributeValue("", 278, hh.Hinh, 278, 8, false);
             WriteLiteral("+\"%\"</span></h4>\r\n            </div>\r\n            <div class=\"snipcart-details agileinfo_single_right_details\">\r\n                ");
             EndContext();
             BeginContext(1605, 212, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be8afeb77827454f8d3db1825758facb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f45b9187715443e29ffaa41b2d0430be", async() => {
                 BeginContext(1696, 114, true);
                 WriteLiteral("\r\n                        <input type=\"submit\" name=\"submit\" value=\"Add to cart\" class=\"button\">\r\n                ");
                 EndContext();

@@ -27,6 +27,18 @@ namespace EStore2.Controllers
             }
         }
 
+        public IActionResult DeleteItemCart(int mahh)
+        {
+            List<CartItem> giohang = Carts;
+            CartItem item = giohang.SingleOrDefault(p => p.MaHh == mahh);
+            if(item != null)
+            {
+                giohang.Remove(item);
+                HttpContext.Session.Set("GioHang", giohang);
+            }
+            return RedirectToAction("Index");
+        }
+        
         public IActionResult AddtoCart(int mahh)
         {
             // lấy giỏ hàng đang có
@@ -51,6 +63,20 @@ namespace EStore2.Controllers
                 giohang.Add(item);
             }
             // lưu session
+            HttpContext.Session.Set("GioHang", giohang);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult UpdateGioHang(int mahh,int sl)
+        {
+
+            List<CartItem> giohang = Carts;
+            // kiểu tra xem hàng đã có trong giỏ chưa
+            CartItem item = giohang.SingleOrDefault(p => p.MaHh == mahh);
+            if (item != null)
+            {
+                item.SoLuong = sl;
+            }
             HttpContext.Session.Set("GioHang", giohang);
             return RedirectToAction("Index");
         }
