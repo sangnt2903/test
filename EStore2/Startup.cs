@@ -36,7 +36,7 @@ namespace EStore2
             var connection = Configuration.GetConnectionString("EStore");
             services.AddDbContext<MyeStoreContext>(options =>
             options.UseSqlServer(connection));
-
+            services.AddSession();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -56,7 +56,7 @@ namespace EStore2
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
-
+            app.UseSession();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

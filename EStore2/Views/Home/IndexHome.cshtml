@@ -1,0 +1,8 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "IndexHome";
+}
+
+Session: @Context.Session.GetString("HoTen") </br>
+Name : @Context.Session.GetString("Name")
+

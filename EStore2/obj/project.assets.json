@@ -12283,11 +12283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MVC.NET Core\\EStore2\\EStore2\\EStore2.csproj",
+      "projectUniqueName": "F:\\final\\EStore2\\EStore2.csproj",
       "projectName": "EStore2",
-      "projectPath": "F:\\MVC.NET Core\\EStore2\\EStore2\\EStore2.csproj",
+      "projectPath": "F:\\final\\EStore2\\EStore2.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "F:\\MVC.NET Core\\EStore2\\EStore2\\obj\\",
+      "outputPath": "F:\\final\\EStore2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

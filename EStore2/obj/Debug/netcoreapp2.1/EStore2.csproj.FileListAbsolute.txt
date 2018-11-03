@@ -33,3 +33,40 @@ F:\MVC.NET Core\EStore2\EStore2\obj\Debug\netcoreapp2.1\EStore2.csproj.CopyCompl
 F:\MVC.NET Core\EStore2\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
 F:\MVC.NET Core\EStore2\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\HangHoa\Index.g.cshtml.cs
 F:\MVC.NET Core\EStore2\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\HangHoa\ProductDetail.g.cshtml.cs
+F:\final\EStore2\bin\Debug\netcoreapp2.1\EStore2.deps.json
+F:\final\EStore2\bin\Debug\netcoreapp2.1\EStore2.runtimeconfig.json
+F:\final\EStore2\bin\Debug\netcoreapp2.1\EStore2.runtimeconfig.dev.json
+F:\final\EStore2\bin\Debug\netcoreapp2.1\EStore2.dll
+F:\final\EStore2\bin\Debug\netcoreapp2.1\EStore2.pdb
+F:\final\EStore2\bin\Debug\netcoreapp2.1\EStore2.Views.dll
+F:\final\EStore2\bin\Debug\netcoreapp2.1\EStore2.Views.pdb
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.csprojAssemblyReference.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.csproj.CoreCompileInputs.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.RazorAssemblyInfo.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.RazorAssemblyInfo.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.AssemblyInfoInputs.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.AssemblyInfo.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.TagHelpers.input.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.TagHelpers.output.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.RazorCoreGenerate.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\HangHoa\Index.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\HangHoa\ProductDetail.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.RazorTargetAssemblyInfo.cache
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.RazorTargetAssemblyInfo.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.Views.pdb
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.dll
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.pdb
+F:\final\EStore2\obj\Debug\netcoreapp2.1\EStore2.csproj.CopyComplete
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Home\IndexHome.g.cshtml.cs
+F:\final\EStore2\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs

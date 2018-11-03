@@ -5,14 +5,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using EStore2.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace EStore2.Controllers
 {
     public class HomeController : Controller
     {
+        
         public IActionResult Index()
         {
-            return View();
+            HttpContext.Session.SetString("HoTen", "Nguyễn Thanh Sang");
+            return View("IndexHome");
         }
 
         public IActionResult About()
